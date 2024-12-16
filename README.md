@@ -1,2 +1,2 @@
 # nexter
-[Demo](https://zavadskyi.github.io/nexter/)
+[Demo](https://serhiizavadskyi.github.io/nexter/)
